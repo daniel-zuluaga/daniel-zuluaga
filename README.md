@@ -54,7 +54,7 @@ I enjoy turning ideas into clean, functional, and efficient applications — wit
 
 ## 🔐 Integrations
 
-- ✅ **KYC & Identity Verification**: Veridas, TransUnion, Metamap  
+- ✅ **KYC & Identity Verification**: TransUnion, Metamap  
 - 📊 **Analytics**: Amplitude, Firebase Analytics  
 - 🎯 **Tracking Events**: TikTok Events, Facebook Events  
 - 🛡️ **Error Monitoring**: Sentry
