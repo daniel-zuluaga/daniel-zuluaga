@@ -67,7 +67,7 @@ I enjoy turning ideas into clean, functional, and efficient applications — wit
 Mobile app for discovering and publishing local events in Medellín. Deployed on Play Store & App Store.
 
 ### 🔷 Admin Web Platform  
-Private internal web dashboard built using Next.js, REST APIs, and Firebase, deployed with Cloudflare.
+Private internal web dashboard built using Flutter, REST APIs, and Firebase, deployed with Cloudflare.
 
 ### 🔷 COVID Testing App  
 Medical application with secure storage and BLoC-based architecture for managing test data.
